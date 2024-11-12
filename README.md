@@ -20,16 +20,16 @@ Installation 💻
 To get started with SysHub:
  1. Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/sysHub.git
+https://github.com/Riotous-web/SysHub.git
  
  2. Navigate to the directory:
 
-cd sysHub
+cd SysHub
  
  
 3. Run the script to launch SysHub:
 
-python sysHub.py
+python3 SysHub.py
 
 Usage 🛠️
 
